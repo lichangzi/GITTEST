@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-增加第一行
-I CHANGEG IT demo first time
-i change it demo1 second time on local!
-=======
-脭枚录脫碌脷脪禄脨脨
-I CHANGEG IT demo first time
-i change it demo1 second time on github!
->>>>>>> ee474746a6be2c4af2c40c699489bb9304c55084

@@ -5,4 +5,9 @@ local change 2
 
 
 Github change 2
+<<<<<<< HEAD
 local change 3
+=======
+
+Github change 3
+>>>>>>> f48fb9c6ff61cd6571846e15d29c39601e51d14a
